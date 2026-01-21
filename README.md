@@ -49,7 +49,8 @@ After selecting an option, press Enter to continue back to the menu.
 Server ID: 123456789012345678
 Invite link: https://discord.gg/abcd1234
 The script automatically extracts the invite code from a full link.
-![Logo](example.png)
+
+![Logo](Example.png)
 ## Notes
 Only works with public servers or servers that have enabled the widget
 Estimated total members may slightly differ from the actual number
